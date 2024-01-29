@@ -1,3 +1,8 @@
+https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/01-docker-terraform/homework.md
+
+https://courses.datatalks.club/de-zoomcamp-2024/homework/hw01
+
+
 # 1 Which tag has the following text? - Automatically remove the container when it exits
     docker run  --help |  grep "Automatically remo
     ve the container when it exits"
