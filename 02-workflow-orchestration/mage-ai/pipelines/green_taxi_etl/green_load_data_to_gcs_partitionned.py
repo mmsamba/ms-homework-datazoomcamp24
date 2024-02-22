@@ -7,10 +7,10 @@ if 'data_exporter' not in globals():
 
 
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/src/.gc/mage-zoomcamp-ms-sa-2024-01-29.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/home/src/.gc/mage-zoomcamp-ms-xx-xxxx-xx-29.json'
 bucket_name = 'mage-zoomcamp-ms'
 #object_key = 'nyc_yellow_taxi_data.parquet'
-project_id = 'mszoomcamp2024'
+project_id = 'mszoomcamxxxx'
 table_name = 'green_taxi_data' # pyarrom utilise cette table pour partitionner
 
 root_path = f'{bucket_name}/{table_name}'
